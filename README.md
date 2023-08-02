@@ -3,11 +3,7 @@
 
 # Repositorio de Práctica de Ejercicios
 
-<center>
-
 ![Práctica de Ejercicios](https://pbs.twimg.com/profile_images/1523070799149641728/g_BuVbSR_400x400.jpg)
-
-</center>
 
 Este repositorio está dedicado a la práctica de ejercicios como parte de mi proceso de aprendizaje. Aquí encontrarás una recopilación de problemas resueltos y proyectos de pequeña escala que he realizado para poner en práctica los conocimientos adquiridos en mis estudios.
 
