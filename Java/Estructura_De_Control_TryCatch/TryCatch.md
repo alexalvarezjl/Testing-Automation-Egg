@@ -1,0 +1,7 @@
+# Try & Catch
+
+El objetivo de los siguientes ejercicios es aprender a utilizar la estructura "try-catch" en Java. Exploraremos diferentes situaciones donde pueden ocurrir errores y aprenderemos a implementar bloques "try-catch" para capturar y manejar estas excepciones. Mejoraremos nuestra capacidad para controlar el flujo del programa y brindar una experiencia más robusta al usuario al anticiparnos y manejar posibles errores.
+
+1. **Ejercicio de división segura:** Escribe un programa que solicite al usuario dos números enteros y realice la división del primer número entre el segundo número. Utiliza un bloque "try-catch" para manejar la excepción en caso de que se intente realizar una división por cero. En caso de que se produzca la excepción, muestra un mensaje adecuado en pantalla.
+
+2. **Ejercicio de conversión de cadena a entero:** Escribe un programa que solicite al usuario una cadena de caracteres que represente un número entero. Utiliza el método Integer.parseInt() para convertir la cadena a un número entero. Utiliza un bloque "try-catch" para manejar la excepción en caso de que la cadena ingresada no pueda ser convertida a un número entero. En caso de que se produzca la excepción, muestra un mensaje adecuado en pantalla.
